@@ -45,6 +45,11 @@ export const YOUTUBE_VIDEOS = [
     thumbnail:"./images/vscodevs.png",
     title: "Webstorm vs VSCode",
     url: "https://www.youtube.com/watch?v=fs9QxeOfALg"
+  },
+  {
+    thumbnail:"./images/week.png",
+    title: "A Week in the Life of a Software Developer",
+    url: "https://www.youtube.com/watch?v=a1NYTCZ9REE"
   }
 ];
 
